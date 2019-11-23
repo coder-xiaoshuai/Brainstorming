@@ -1,0 +1,2 @@
+include ':app_main', ':baselib', ':commonui', ':baseframework', ':commonutil'
+rootProject.name='Brainstorming'
